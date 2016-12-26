@@ -8,3 +8,4 @@ gradlew
 */.settings/*
 */gradle/*
 */target/*
+*/.gitignore
